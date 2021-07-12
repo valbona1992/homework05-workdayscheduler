@@ -1,0 +1,76 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-image: url("https://images.indianexpress.com/2017/04/nature-tree_1200.jpg");
+  background-size: cover;
+  color: white;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 120px;
+  border-top: 1px solid white;
+  font-size: 25px;
+}
+
+.hour {
+  background-color: lightgray;
+  color: black;
+  border: 1px solid black;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.past {
+  background-color: #80D3E0;
+  color: black;
+}
+
+.present {
+  background-color: #E096BA;
+  color: black;
+}
+
+.future {
+  background-color: #E0D369;
+  color: black;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #94917B;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
