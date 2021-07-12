@@ -15,5 +15,5 @@ Below is a summary of what I implemented.
 
 
 ## Screenshot
-![screenshot](assets/WorkDayScheduler.png) 
+![screenshot](Assets/WorkDayScheduler.png) 
 
